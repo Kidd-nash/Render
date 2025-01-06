@@ -1,1 +1,38 @@
-Initialize...
+!!!Initialize...
+
+Basics:
+
+two fingers: - move object view/perspective
+
+shift + two fingers: move plane
+
+fn + f12: - immediate image render / snapshot image
+
+select + G: GRAB and move object...
+
+G + (x, y, z): - move objects by axis
+
+select + R: Rotate object
+
+R + (x, y, z): - rotate by axis
+
+select + S: Scale object
+
+S + (x, y, z): - scale by axis
+
+esc: - cancel movements
+
+enter: execute movements changes
+
+cmd + two fingers: zoom in and out
+
+backtick + 3: focus on selected object
+
+option + g: move object to origin
+
+Select object + Shift + D: duplicate object
+
+Select + X or delete: deletes object
+
+
+
