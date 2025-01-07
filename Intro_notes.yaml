@@ -34,14 +34,44 @@ Select object + Shift + D: duplicate object
 
 Select + X or delete: deletes object
 
+Double tap + hold: adjust number/value
+
+
+
+
+#OBJECT Edit:
+
 Shift + A: add an object
 !!!Options pops up after creating the object
 
 fn + f9: to get edit aboject initially..
 
-Double tap + hold: adjust number/value
-
 !!!When starting resolution can be done at low point then just add later on, rather than starting high up and it would be difficult to change
+
+ctrl + A: apply scale for measuring be 1x1
+
+double finger tap -> then click shade smooth: to adjust its looks
+
+Wrench -> Subdivision Surface: adjust its looks to make it look smooth
+
+Select + Tab: go into edit mode / grid lines on the object
+
+Tab -> tap on vertex -> grab -> adjust: make lumps on a surface
+
+Tab -> shift + tap on multiple vertices -> grab -> adjust: make lumps on a surface with style
+
+Hot Key N: bring up object properties
+
+SELECT (Object) -> Tab (edit mode grid) -> Select on a vertex (point of hold) -> G (grab on vertex) -> two finger (scroll adjust held size) ->:
+one finger movement (to adjust the grab):
+!!!Alternatively: after selecting on a vertex -> option + s: also adjust based on the vertex z-direction 
+
+SELECT -> Tab -> Select Random (holds on random verteces) -> Try out different proportional edit (Hot key O):
+
+Option + Z : Toggle X-ray
+
+Adjust modifier for each object from top to bottom: creates a curve connection instead of flat partitions
+
 
 
 
