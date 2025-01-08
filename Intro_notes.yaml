@@ -72,6 +72,13 @@ Option + Z : Toggle X-ray
 
 Adjust modifier for each object from top to bottom: creates a curve connection instead of flat partitions
 
+Adjust modifier -> uncheck edit mode:
+
+side bar -> right click: split screen
+
+Hot Key E: Extrude
+
+
 
 
 
