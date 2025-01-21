@@ -83,6 +83,25 @@ Add modifier -> Shrink wrap : Covers  the selected object
 
 Option + Click: selects the whole loop
 
+While on Grab(Sculpting) F adjusts size / Shift F adjusts strength value
+
+Materials:
+
+Adjust Base colors
+
+Sub Surf affects lighting...
+
+
+Rendering:
+
+in Material View with lighting and world scenes for while editing
+
+in Render Mode for Cycles
+  - adjust Max Sample to a hundred and Min Sample to 50
+  - check Denoise to adjust the image reso 
+
+ctrl + shift + click on node: (shows only the selected node)
+
 
 
 
